@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hyena Recon Transport - Vehicle
+* source:	https://sketchfab.com/3d-models/hyena-recon-transport-vehicle-749ff9cf09a74945b065240ff208f768
+* author:	Michael Wright (https://sketchfab.com/rawer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hyena Recon Transport - Vehicle" (https://sketchfab.com/3d-models/hyena-recon-transport-vehicle-749ff9cf09a74945b065240ff208f768) by Michael Wright (https://sketchfab.com/rawer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
